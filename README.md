@@ -24,6 +24,7 @@ Automated trading: The bot uses advanced algorithms to automatically buy and sel
 4. Customizable settings: Users can adjust the bot’s settings to suit their trading strategies, risk tolerance, and investment goals.
 
 5. Integration with multiple exchanges: The bot can be connected to multiple cryptocurrency exchanges, including Pancakeswap, Binance, and others.
+   
 ![image](https://github.com/user-attachments/assets/d4eecfd8-14d6-4bf4-8286-268ee2d3c29d)
 
 
